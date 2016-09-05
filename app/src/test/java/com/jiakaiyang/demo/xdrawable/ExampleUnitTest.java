@@ -1,4 +1,4 @@
-package com.jiakaiyang.xdrawable;
+package com.jiakaiyang.demo.xdrawable;
 
 import org.junit.Test;
 

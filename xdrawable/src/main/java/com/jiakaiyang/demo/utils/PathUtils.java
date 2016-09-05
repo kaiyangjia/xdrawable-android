@@ -1,9 +1,9 @@
-package com.jiakaiyang.xdrawable.utils;
+package com.jiakaiyang.demo.utils;
 
 import android.graphics.Path;
 
-import com.jiakaiyang.xdrawable.base.Point;
-import com.jiakaiyang.xdrawable.base.Polygon;
+import com.jiakaiyang.demo.base.Point;
+import com.jiakaiyang.demo.base.Polygon;
 
 /**
  * Created by jia on 16/9/5.

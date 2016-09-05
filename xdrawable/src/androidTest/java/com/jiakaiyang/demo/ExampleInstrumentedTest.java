@@ -1,4 +1,4 @@
-package com.jiakaiyang.xdrawable;
+package com.jiakaiyang.demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.jiakaiyang.xdrawable", appContext.getPackageName());
+        assertEquals("com.jiakaiyang.xdrawable.test", appContext.getPackageName());
     }
 }

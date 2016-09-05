@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<polygon>
+    <point X="10" Y="10"></point>
+    <point X="210" Y="10"></point>
+    <point X="210" Y="210"></point>
+    <point X="10" Y="210"></point>
+</polygon>
